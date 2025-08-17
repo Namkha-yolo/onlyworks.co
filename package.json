@@ -1,0 +1,7 @@
+{
+  "homepage": "https://namkha-yolo.github.io/onlyworks.co",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
